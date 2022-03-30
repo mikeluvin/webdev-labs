@@ -9,3 +9,23 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
+
+.card {
+    max-width: 350px;
+    border: solid 1px grey;
+}
+
+.card img {
+    width: 100%;
+    border-top: solid 1px grey;
+    border-bottom: solid 1px grey;
+}
+
+
+.card h2, p, button {
+    margin-left: 20px;
+}
+
+.card button {
+    margin-bottom: 20px;
+}
