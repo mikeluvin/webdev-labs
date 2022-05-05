@@ -1,0 +1,11 @@
+What is the value of SQLAlchemy?
+- Is an Object Relational Mapper, which allows us to associate user-defined 
+Python classes with database tables.
+
+What is a model?
+- A model is the class mentioned above. It is the data model for the database Table. An instance of the model's class corresponds to a row in the database 
+table.
+
+What is a view?
+- A view is an API endpoint that allows the client to read/write to the database
+tables.
